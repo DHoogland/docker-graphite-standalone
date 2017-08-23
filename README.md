@@ -19,7 +19,7 @@ docker run -d\
  -p 2023-2024:2023-2024\
  -p 8125:8125/udp\
  -p 8126:8126\
- graphiteapp/graphite-statsd
+ dhoogland/docker-graphite-standalone
 ```
 
 This starts a Docker container named: **graphite**
