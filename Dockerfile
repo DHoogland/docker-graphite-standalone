@@ -1,4 +1,4 @@
-FROM dhoogland/grpahite-standalone:0.0.1
+FROM dhoogland/grpahite-standalone:latest
 MAINTAINER Davey Hoogland <d.hoogland@vrieling.nl>
 
 RUN apt-get -y update \
